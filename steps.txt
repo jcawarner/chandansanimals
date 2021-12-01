@@ -1,0 +1,56 @@
+3.  Set up database of animals
+    - search function to grab animal by name
+    - search by location
+    - search by size
+    - search by food
+    - random - grab data from random animal
+
+
+Building Website:
+
+4. Build home page fun animal looking theme
+    - search button
+    - random button
+5. Build out search page
+6. Build out random animal page
+
+Game 20 questions:
+
+7. research NLP and find out how to implement reading questions and answering them with yes or no
+8. Add Game button to website
+9. Build out game page
+
+...add more notes as i go
+
+20 question guessing game
+
+Search for animal by name, habitat, size ect
+Random animal
+
+Website:
+
+Search: find any animal and see picture with characteristics
+Random: click button and generate random animal with characteristics
+
+Question game:
+advanced NLP- ask question and program answers it....hard
+
+filter animals by certain criteria...ex color, place live ect
+
+10.  Put random animal pictures in picture slots on main page
+
+11. Carosell - random animals in my data base
+    -when hover shows the animla name and info of that animal
+    - when click goes to page about that animal
+    - do a little digging on jumping to url
+
+12. main page - fact in the main page - click to get all the info of the animal
+
+13.  Search button
+    - goes to search page
+    - that page goes to animal info page containing all the info about that animal
+
+14. Random button
+    - much like search button but does directly to animal page
+
+15. find simple template for my animal description page
